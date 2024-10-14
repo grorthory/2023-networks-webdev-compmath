@@ -1,0 +1,25 @@
+* {
+  font-family: courier;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+table {
+  text-align: center;
+  border: 1px solid;
+  margin: auto;
+}
+
+tr {
+  text-align: center;
+}
+
+td {
+  background-color: #000000;
+  margin: auto;
+  border: 1px solid;
+  padding-bottom: 20px;
+}
